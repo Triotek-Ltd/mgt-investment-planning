@@ -1,0 +1,42 @@
+[
+  {
+    "module_code": "mgt9_2",
+    "module_label": "MGT 9.2 - Financial Evaluation (NPV/ROI)",
+    "module_title": "Financial Evaluation (NPV/ROI)",
+    "module_slug": "financial_evaluation_npv_roi",
+    "app_code": "mgt9",
+    "app_label": "MGT 9 - Investment Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt9_3",
+    "module_label": "MGT 9.3 - Investment Approval",
+    "module_title": "Investment Approval",
+    "module_slug": "investment_approval",
+    "app_code": "mgt9",
+    "app_label": "MGT 9 - Investment Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt9_4",
+    "module_label": "MGT 9.4 - Investment Performance Tracking",
+    "module_title": "Investment Performance Tracking",
+    "module_slug": "investment_performance_tracking",
+    "app_code": "mgt9",
+    "app_label": "MGT 9 - Investment Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt9_1",
+    "module_label": "MGT 9.1 - Investment Proposal Submission",
+    "module_title": "Investment Proposal Submission",
+    "module_slug": "investment_proposal_submission",
+    "app_code": "mgt9",
+    "app_label": "MGT 9 - Investment Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  }
+]
